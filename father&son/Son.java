@@ -16,6 +16,6 @@ public class Son extends Father {
 //        son{}
 //        father constructor
 //        son constructor
-        //如果把 father {}的static去掉会有不一样的结果,好奇的请自己尝试
+        //如果把 输出father {}和son{}前的static去掉会有不一样的结果,好奇的请自己尝试
     }
 }
